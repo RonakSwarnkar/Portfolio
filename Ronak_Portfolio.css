@@ -431,7 +431,7 @@
   margin-top: -121px;
 }
 }
-
+}
 @media (min-width : 900px)  and (max-width:1200px){
   
 #bidimg {
@@ -442,6 +442,5 @@
   width: 325px;
   margin-left: 20px;
   margin-top: -70px;
-}
 }
 }
